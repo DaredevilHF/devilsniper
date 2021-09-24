@@ -4,7 +4,7 @@ Mempool Sniping bot for Ethereum, Binance Smart Chain, Matic, Fantom & Avax
 Discord Contact: daredevil#1676
 1. What does this “Sniper Bot” do and how does it work?
 
-The bot allows you to buy any newly added token from Pancakeswap, Uniswap, Spookyswap, Spiritswap, Quickswap, Waultswap, Apeswap, Kuswap, Koffeeswap, Pangolin in amazing speeds ( up to zero seconds from the time of the listing). It is called “sniping” which can make you a big amount of profit.
+The bot allows you to buy any newly added token from Pancakeswap, Uniswap, Spookyswap, Spiritswap, Quickswap, Waultswap, Apeswap, Kuswap, Koffeeswap, Pangolin, Sushiswap in amazing speeds ( up to zero seconds from the time of the listing). It is called “sniping” which can make you a big amount of profit.
 
 Devil Sniper connecting to the blockchain network, scanning for all mempool / pending transactions, finding and matching the liquidity add transaction of the token you are trying to snipe and then placing the buy order in the same block.
 
