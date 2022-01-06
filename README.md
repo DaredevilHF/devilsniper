@@ -1,5 +1,5 @@
 ![Devil Sniper](https://i.imgur.com/N5X6NGl.png)
-![Devil Sniper](https://i.imgur.com/HKlrk5v.png)
+![Devil Sniper](https://i.imgur.com/SLvJoAG.png)
 
 Mempool Sniping bot for Ethereum, Binance Smart Chain, Matic, Fantom & Avax
 
