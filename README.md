@@ -1,9 +1,8 @@
 ![Devil Sniper](https://i.imgur.com/N5X6NGl.png)
 ![Devil Sniper](https://i.imgur.com/SLvJoAG.png)
 
-Mempool Sniping bot for Ethereum, Binance Smart Chain, Matic, Fantom & Avax
-
 Discord Contact: daredevil#1676
+
 Mempool Sniping bot for Ethereum, Binance Smart Chain, Matic, Fantom & Avax
 
 1. What does this “Sniper Bot” do and how does it work?
